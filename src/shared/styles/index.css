@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  --font-geist-mono: "Open Sans", sans-serif;
+  font-family: var(--font-geist-mono), system-ui, Avenir, Helvetica, Arial,
+    sans-serif;
+}
+
+html,
+body,
+:root {
+  height: 100%;
+}
