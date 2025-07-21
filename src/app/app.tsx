@@ -1,3 +1,3 @@
-import { Providers } from "@/shared/providers/providers";
+import { Providers } from "@/shared";
 
 export const App = () => <Providers />;
